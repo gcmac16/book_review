@@ -1,0 +1,24 @@
+### The Lazy Controller
+
+- It is normally easy to walk and think at same time but extremes of activities compete for limited system 2 resources
+    - if you're walking and try to solve hard math problem, you'll probably stop walking
+    - if you're walking really fast you can't focus on anything else; system 2 is occupied with keeping pace
+- self control and deliberate thought draw on same limited budegt of effort
+- Law of least effort - if there's several ways to do something, people will pick the easiest
+- People simultaneously chllanged by demanding cognitive task and by a temptation are more likely to yield to the temptaion
+- People that are cognitively busy are more likely to:
+    - make selfish choices, use sexist language and make superficial judgements
+- effort of will or self-control is tiring
+    - if you've had to force yourself to do something you are less willing ar able to exert self-control in next challenge/situation
+    - This concept is known as ego depletion
+    - ego depletion is at least in part a loss of motivation
+    - glucose might help abate effects of ego depletion
+    - good example is parole judges who approve parole at beginning of day/right after lunch but proportion they approve decreases to zero over long periods of evaluation
+- On simple question of bat/ball = $1.10 how much does ball cost students at ivy league schools gave intuitive/incorrect answer ~50% of the time
+    - figure was 80% at less selective universities
+    - people are overconfident and prone to place too much faith in intuitions
+- when people believe a conclusion is true they are likely to believe arguments that appear to support it even if those arguments aren't sound
+- Knowledge of a fact isn't all or none - facts we know don't alwasy come to mind when we need them
+- extent of deliberate checking and search is characteristic of system 2
+- failing tests/giving intuitive but wrong answers is a matter of lack of motivation at least to some extent
+- "engaged" person more likely to have system 2 check if intuitive answer right or wrong; "lazy" person the opposite 

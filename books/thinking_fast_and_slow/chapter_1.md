@@ -1,0 +1,23 @@
+## The Characters of the Story
+
+- System 1: operates automatically and quickly with little/no effort and no sense of voluntary control
+- System 2: allocates attention to effortful mental activities like complex computations. Associated with agency, choice and concentration
+- when we think of ourselves we identify with system 2
+- System 1 effortlessly originates impressions and feelings that are the main sources of the explicite beliefs and deliberate choices of system 2
+- Capabilites of system 1 are innate skills we share with other animals
+    - perceive world around us, recognize objects, orient attention, avoid losses
+- System 2 operations have one feature in common: they require attention and are disrupted when attention is drawn away
+- It's the makr of effortful activities that they interfere with each other
+    - very difficult/impossible to do conduct many system 2 activities simultaneously
+- intesnse focus on a  task can effectively blind people
+    - people counting passes in "The Invisible Gorilla" don't see gorilla at all and insist it didn't show up because it would have been impossible for them to miss. blind to blindness
+- System 2 adopts the suggestions of system 1 with litte or no modification most of the time
+    - when system 1 doesn't have an answer, system 2 steps in
+    - system 2 also is mobilized to increased effort when it detects an error about to be made
+    - This tradeoff works well because system 1 is really good at what it does: good short term predictions, accurate models of familiar situations 
+    - System 1 has biases: systematic error prone to make in specific circumstances
+- System 1 can't be turned off
+- System 2 must overcome impulses of system 1 - it is the system of self control
+    - but system 2 can't patrol all thoughts for errors
+    - best we can do is learn to recognize siuations in which mistakes are likely and try harder to avoid significant mistakes when the stakes are high
+    - It is easier to recognize other people's mistakes than our own
