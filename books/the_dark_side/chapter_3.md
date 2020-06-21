@@ -1,0 +1,26 @@
+## The Warning
+
+- British came to US following 9/11 and said they wanted to focus response on Afghanistan, not Iraq
+    - british were nervous bush admin might be subject to overraction or exploitation of tragedy to advance political agenda
+    - in the middle of dinner brought cable to Tenet - urged CIA operatives to kill bin laden and dismember him
+    - british warned they tried to use IRA terror tactics agains them
+    - "It's dangerous. It makes you the bad guys. Andy when it gets to court ... every one of those guys will get off"
+- Clinton overthought issue of lethal force, Bush admin gave it little to no thought
+    - Cofer Black told Bush US could destroy Al Qaeda and Taliban in a few weeks
+    - even though there was no plan in the Pentagon so they had to yield to the CIA
+- Bush told Ashcroft (AG) to "never let this happen again"
+    - Message received was to be more proative/preemptive and do WHATEVER it took to get terrorists
+- Mueller, head of FBI, wanted to follow proper police procedures and rules of evidence to make sure prosecution held
+    - Ashcroft told him that criminal trials weren't the point, stopping the next attack was. Due process too time consuming
+- CTC (Counterterrorist Center) had no spies in Al Qaeda - had spent millions on rent-a-tribes w/ nothing to show
+- CIA had wanted to capture Bin Laden and bring him to US during Clinton but FBI said it was a bad idea
+    - Janet Reno (Clinton's AG would approve only if Bin Laden was Indicted)
+- CIA wanted to kill Bin Laden, but the capability was far les than advertised
+- Cofer Black had finding called Memorada of Notifications (MONs) detailing response
+    - secret paramilitary death squads to hunt/hill terror suspects "self defense"
+    - proposal for secret war fought by CAI not military
+    - President would authorize Tenet to decide whom to kill, kidnap, detain to give him deniability
+    - CIAs lawyers suggested spy agency should be able to spy in US
+    - Was ultimately approved
+    - British worried about destabilizing effect of policy on middle east - Black told him they were only concerned w/ killing terrorists
+- Even the Russians tried to warn Black that Afghanistand was a suicide mission

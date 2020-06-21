@@ -1,0 +1,34 @@
+## The best time to buy and sell
+
+- pay no attention to external economic conditions except when exceedingly obvious (covid for example)
+- sell signals vary by stock type
+- slow growers
+    - 30-50% appreciation or fundamentals deteriorate
+    - losing market share 2 years in a row
+    - cash > debt -> debt > cash
+    - diworsefication
+    - no product development
+    - dividend too low to attract investors 
+- Stalwarts
+    - stock > earnings; p/e above normal range
+    - mixed success with new products
+    - insiders not buying
+    - slowing growth with limited opportunity to change
+- Cyclical
+    - increasing inventories
+    - new businesses competing
+    - slowing demand for product
+    - increased capex
+- Fast Grower
+    - analysts coverage starts; institutional investors
+    - dissapointing new store results
+    - same store sales are down >= 3%
+    - execs leave to join competitor
+-Turnaround
+    - after turnaround is over, reclassify and build new story
+    - inventories grow faster than sales
+    - debt shoots up
+    - p/e inflated vs earnings
+- Assets
+    - coroporate raiders show up
+    - institutional investment way up

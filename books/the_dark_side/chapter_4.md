@@ -1,0 +1,44 @@
+## Men of Zeal
+
+- Alberto Gonzales (White House Counsel) demanded congress expand authority so Bush to wage war against suspected terrorists in the US
+    - Tom Daschle (D - Senate Majority Leader) said no way
+    - Congress had already rebuffed one move from WH but they tried again 
+    - Presidents lawyers dismissed the notion that congress could limit president's conduct of warefare AT ALL
+- Justice Department delivered secret memo arguing that if pres decided threat justified deploying miliatry in US, he could
+    - Also said they could ignore 4th Amendmant against illegitamate search/seizure
+    - Idea for wiretaps wtihout cour warrants
+- Bush response informed by father's presidency
+    - thought HW wasted political capital after driving Iraqis out of Kuwait
+    - "If I [have] that much capital...I'm going to get everything passed that I want past)
+- Lead architect of Bush admin interpretation of law was David Addington
+    - archonservative "no one stood to his right"
+- New Paradigm
+    - Addington's legal doctrine that the president could disregard all previous known legal boundaries if national security demanded it
+    - Goal of legal strategy was to transform the fight against terrorism from criminal justice to military war which would allow CIA/pentagon to kill/capture suspects as quickly as possible with least restraint
+    - Rather than seeing American legal system as country's strength, saw it as a burden
+- Under New Paradigm the president gave terror suspects neither the rights of criminal defendants nor the rights of prisoners of war
+    - instead made new, ad hoc system of detention and interrogation
+    - designated as "illegal enemy combatants" whose treatment would be decided by POTUS
+    - reduce congress to cipher was Cheney and Addington's MO
+- Cheney became most powerful VP in history; Addington = Cheney's Cheney
+- Bush and Cheney wanted to be as agressive as law would allow 
+    - No discussion of policy; what was legal/moral/ethical/smart
+    - Lawyers filled the policy void
+- Addington came of age in post Watergate world, saw Congress's constainsts on president as unwise
+    - FISA: law requiring juidicial review before foreign suspects inside country could be wiretapped
+    - War Powers Resolution - limited POTUS ability to commit troops to war w/o congressional authorization
+- Cheny exerted power by narrowing Bush's choices. There are two ways he controlled them 
+    - Determining which papers the president reads - Addington had final say
+    - Determining who he sees and talks with - Cheney always had last word
+    - Addington would frequently rewrite executive orders even though they'd already been vetted before Bush saw them
+- Office of Legal Council (OLC)
+    - The AG's law firm
+    - Issue's opinions that are legally binding on the rest of the executive branch
+    - If they interpret law in a certain way the gov't must too unless the AG overrules it
+    - If they say something is legal it's neraly impossible to prosecute people who follow that advice on good faith
+    - OLC decision also strip dissenters of ability to make opposing legal arguments
+- Terrorist Surveillance Program (TSP)
+    - new intrusive eavesdropping program for NSA to intercept phone calls/emails to & from US w/o a warrant
+    - Prior to 1978, CIA authorized own wiretaps, changed with FISA to curb abuse
+    - Didn't show lots of people that should have seen the decision including John Bellinger (Rice's NSC top lawyer)
+    - Cheney screened him for loalty and he failed

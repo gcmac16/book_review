@@ -1,0 +1,29 @@
+## Modes of Control
+
+- There are three different forces governing people's behavior at work: market forces, contractual obligations and cultural values
+- Free Market Forces
+    - Efficient and governed by self-interest
+    - buyer wants lowest price, seller wants highest price
+    - requires little supervision
+- Contractual Obligations
+    - contract betwen parties, exchanges efficiency for certainty
+    - best for things where value is ambiguous
+    - examples: employment contracts, tax returns, stop lights
+- Cultural Values
+    - environment changes more rapidly that rules can
+    - group interest ahead of self interest
+    - example: stopping to help car wreck; strategic planning groups
+    - requires trust and common set of values and methods
+- CUA factor
+    - Complexity, Uncertainty, Ambiguity
+- Best mode of control
+    - Self interest, low CUA = free-market
+    - Group interest, low CUA = contractual obligation
+    - self interest, high CUA = NOTHING WORKS
+    - group interest, high CUA = cultural values
+- New Employee
+    - self-interest is high, so give a job with low CUA
+    - does well, gains group interest mindset then can be promoted to high CUA position
+- Senior person hired from outside
+    - new hire has high self interest because they are senior have high CUA work
+    - Have to hope she buys into mission and/or gains control of job quickly

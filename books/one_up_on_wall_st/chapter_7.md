@@ -1,0 +1,43 @@
+## I've Got It; What Is It?
+
+- Discovery of a stock isn't a buy signal
+- Investing without research is like playing poker without looking at your cards
+    - only requires as much effort is buying groceries
+- If considering a stock based on one product find out what effect the success will have on the bottom line
+- Don't buy stocks in giants expecting to 4x in 2 years
+    - Only exceptions are turnarounds which are themselves rare
+- All else equal, you make more money on small companies
+- Six categories:
+    - Slow Growers: large/aging companies; grow same rate as GDP, pay dividends
+    - Stalwarts: large companies growing 10-12% per year in earnings
+    - Fast Growers: small/aggressive/new companies; grow 20-25%/year; big winners
+    - Cyclicals: sales/profits closely aligned with business cycles; misunderstood
+    - Asset Plays - sitting on something valuable the street ignores
+    - Turnarounds - battered/depressed/bankrupt that rebound
+- Slow Growers
+    - When an industry slows down, so do the companies in it
+    - No reason to have in portfolio
+- Stalwarts
+    - provide decent coverage in receptions
+    - cap on returns (sell after 50% growth)
+- Fast Growth
+    - very risky; young companies can be overzealous and under-financed
+    - small fast-growers risk extinction; large fast growers risk rapid devaluation
+- Cyclicals
+    - sales/profits rise in regular (maybe not predictable) fashion
+    - autos/airlines, steel, defense companies (wars are cycles here)
+    - can lose 50% quickly if you buy in the wrong part of cycle
+    - most misunderstood
+- Turnarounds
+    - Stalwarts/slow growers that fell on hard times; may file chapter 11
+    - Types of turnarounds
+        - Bail us out or else (GM/Lockheed/Banks)
+        - Who would have thunk it (utilities)
+        - Little problem we didn't anticipate (3 Mile Island)
+            - Stay away from tragedies where outcome is unmeasurable
+- Assets are hard because you need to know stuff not on balance sheets
+- Companies switch categories over time
+- Basing strategy on general maxims is dumb
+    - No generic formula exists that applies to all the categories
+    - 50% is great for stalwart, terrible for high growth
+- Categorizing is first step to developing story

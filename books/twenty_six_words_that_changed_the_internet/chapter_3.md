@@ -1,0 +1,26 @@
+## Chris and Ron Do Lunch
+
+- Chris Cox and Ron Wyden were bipartisan friends who didn't like Stratton Oakmont Ruling
+    - Wanted best people to clean up internet to be incentivized to do so
+- Sen. James Exon had first internet reform bill
+    - It was punitive and gov't would punish for speech
+    - Wyden/Cox wanted companies to set the standards, not gov't
+- Two main goals for legislation
+    - Encourage companies to build services w/o threat of being sued into oblivion
+    - Allow platforms to selectively monitor/remove posts w/o bearing responsibility for content of ALL posts
+    - Believed market would lead to companies developing codes of conduct for their particular audience
+- Exceptions to the bill
+    - Doesn't protect against users' violation of IP laws
+        - in 1998 congress passed law that would provide safety from copyright lawsuits if content is removed after receiving notice from copyright holder
+    - Doesn't protect companies from enforcement of federal law
+- Legislation prevented individuals recoveing damages from some of the largest companies in the US
+- Bil had wide bipartisan support leading to little media coverage/fanfare
+- Initially because Exon bill made it in, the Communications Decency Act was thought to be a disaster for Silicon Valley
+- Then Supreme Court struck down Exon's indecency section
+    - grounds were basically that it would cause burden among adults communicating between themselves
+    - internet/user contnet different than radio/tv where content is controlled by a few companies
+    - Presume gov't regulation of speech is more likely to interfere w/ exchange of ideas than encourage them
+- Two very different ways to interpret the 26 words:
+    - Treat all online servies as distributors where if a site receives notice but fails to remove speech, they are liable
+    - Prohibition on services as speakers/publishers of 3rd party conent means platforms have ZERO liability unless an exception applies
+    - Text of bill nor committee clearly indicated which interpretation would prevail

@@ -1,0 +1,44 @@
+## Blame
+
+- CIA had files tracking two of the 9/11 hijackers but had dropped the ball on following up
+    - George Tenet, director of CIA at the time said "We're fucked"
+- Bin Laden's breach of American security was worst intelligence failure in US history except maybe Pearl Harbor
+- Tenet who was former aide to Senate Intel committte knew that investigations and blame game were coming
+    - testified that he had seen warning signs of impending attacks and had done everything possible to get Bush admin's attention
+- Gotten a tip from a Saudi that there was a plan to attack the US in 1998
+    - Also got a phone number that was subsequently tapped
+    - Found out about meeting planning an attack in Kuala Lampur, followed Mindahar (one of 9/11 hijackers) there
+    - Found visa for US in passport of Mindahar
+    - Lost track of him and he ended up in LA
+- CIAs Counterterrorist Center (CTC) failed to share info that Mindahar was in US with ANYONE
+    - FBI loaner Doug Miller requested to share info w/ FBI twice but was stopped
+    - Records ended up showing that Miller said he'd shared it even though he hadn't
+    - In the end 50-60 people in CIA knew that 2 Al Qaeda suspets came to the US but didn't tell the FBI
+    - The errors were painfully munane - misfield paperwork, misunderstanding, miscommunication
+- Expansion of power that came from this failure implied there was too much overhead/regulation. In reality, they got good intel from detective work and then screwed it up. The intel gathering wasn't the issue but the follow up was.
+- Claimed issue was about information sharing, structural deficiencies, "The wall", preemptive philsophy, enhanced interrogation. REality is that failure was human not structural or organizational
+- Tenet told a different story than this and said Agency had done everything possible to warn Bush even though the CIA story had inconsistencies
+- Clinton had authorized CIA to capture Bin Laden but could only kill in self-defense
+    - reportedly authorized agency to let Afghan surrogates kill him, but later rolled this order back
+    - CIA had learned it needed to get everything in writing from lawyers
+- Tenet testified in cour a couple times that Bin Laden was most immediate threat to US and that a terrorist attack on US in next two years was "likely"
+- Demanded a meeting w/ Condoleezza Rice to discuss Al Qaeda
+    - Tenet and Black claim they urgently called for war footing from US
+    - Rice doesn't remember urgency and claims no one tolder her Bin Laden planned to attack america
+    - Tenet gave two accounts; one that Rice was receptive and another saying she gave them the brush-off
+- By August 6, CIA delivered briefing to Bush titled "Bin Laden Determined to Strike in the US"
+    - Bush was dismissive, reportedly said "All right, you've covered your ass now"
+- Fligh school in Eagan, MN alerted FBI that French/Moroccan national wanted to be taught to fly a plane but didn't care about takeoff/landing
+    - Zacarias Moussaoui was arrested
+    - Urgent memos suggesting he may be part of plot for using hijacked planes were ignored and permission to search Moussaoui's laptop were denied
+    - John Ashcroft, Attorney General, denied pleas for increased funding to fight Al Qaeda
+- At meeting one week before attacks no decision was made on whether to deploy predator drone against Bin Laden
+    - Neither CIA nor Air Force wanted to take risk of using it
+    - CIA said it wasn't their job to fly airplanes that shot missiles, Air Force said it wasn't their job to fly planes to collect intellgince
+- Tenet got promise from Bush that he wouldn't investigate CIAs record on Al Qaeda
+    - lots of people were doing hard things and risking their lives in the fight he told Bush
+    - Cheney through clout into killing investigation telling Senate Majority Leader Tom Daschle (D) that if he called for a probe WH would position Dems as undermining war on terror, an untenable position
+    - Daschle did it anyway, was supported by McCain who had just been smeared by Bush Admin during campaign
+- 9/11 commission found Bush received more than 40 briefings mentioning Bin Laden between January and September 2001
+    - Cheney was the detail guy who had hands on steering wheel
+    - Bush had small increments of time; scheduled in 5 minute blocks so he was distracted

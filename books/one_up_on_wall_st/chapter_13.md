@@ -1,0 +1,41 @@
+## Some Famous Numbers
+
+- Percent of sales - when targeting stock bsed on 1 product that product should make up enough of sales so that it can materially impact company
+- pe/ratio
+    - if fairly priced p/e should equal growth rate
+    - (growth rate + dividend yield) / p/e >= 1.5 (idealy 2)
+- cash position
+    - price of stock = price - cash position
+    - often not that big of a deal
+- Debt Factor
+    - normal balance sheet is 75% equity and 25% debt
+    - bank debt is due on demand; failure to pay means chapter 11
+    - funded debt can't be called as long as interest is paid
+- Dividends
+    - shareholders want cash, directors think they can spend it better
+    - bladder theory - the more cash that builds up the greater the pressure is to piss it away
+    - presence of dividend can put a floor on the price because falling price means larger return
+    - smaller companies that don't pay dividends grow faster
+    - target companies that consistently pay/raise dividends in hard times
+- Book value
+    - book value = assets - liabilities
+    - make sure assets are real, because debt definitely is
+    - resale value decreases from raw material to finished product
+- Hidden Assets
+    - depreciated assets that don't have to be replaced
+    - assets on the book at purhcase price, not current market value
+    - companies that own stocks in other companies (look for European holders)
+- Cash Flow
+    - Cash from sales - cash from operations
+    - make sure you're looking at free cash flow (operating cash flow is just cash from sales)
+- Inventories
+    - manufacturing/retail increasing inventory is a bad sign
+    - auto not as bad b/c floor on resale value
+- Growth rate
+    - growth != expansion
+    - can grow by decreasing cost or increasing price
+    - look for companies that raised price without losing customers 
+    - 20% growth @ P/E of 20 better than 10% growth @ p/e of 10
+- Bottom line
+    - profit before taxes; good tool for comparison as long as companies are in the same industry
+    - high margin for long-term stock; low margin for turnaround candidates better
